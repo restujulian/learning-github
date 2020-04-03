@@ -5,6 +5,8 @@
 3. <a href="https://gist.github.com/iruwl/bad4c2128660dbd93e2d2c51b5ebf862">Perintah dasar git</a>
 <hr/>
 <h2>------------------------- ACTIVITY 1 -------------------------</h2>
-* Belajar perintah dasar
-* Implementasi
+<ul>
+  <li>Belajar perintah dasar</li>
+  <li>Implementasi</li>
+</ul>
 <hr/>
